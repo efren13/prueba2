@@ -1,5 +1,6 @@
 'use strict'
 
+var i =0;
 var mongoose = rewuire('mongoose');
 var Schema = mongoose.Schema;
 
